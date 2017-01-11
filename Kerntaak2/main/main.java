@@ -1,4 +1,6 @@
-import Kerntaak2.Connectie;
+package main;
+
+import connectie.Connectie;
 //oee
 public class main {
 
